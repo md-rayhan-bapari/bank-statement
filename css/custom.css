@@ -10,3 +10,20 @@ body {
 #my-balance {
     display: none;
 }
+.balance-card {
+    margin: 0 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.deposit {
+    background-color: #233142;
+    color: #f3f3f3;
+}
+.withdraw {
+    background-color: #455d7a;
+    color: #f3f3f3;
+}
+.balance {
+    background-color: #f95959;
+    color: #f3f3f3;
+}
