@@ -3,7 +3,8 @@ body {
 }
 .login__form-area {
     box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
-    padding: 1.5rem 2rem;
+    margin-top: 50px;
+    padding: 40px;
     border-radius: 10px;
 }
 
@@ -26,4 +27,11 @@ body {
 .balance {
     background-color: #f95959;
     color: #f3f3f3;
+}
+
+#transaction-area {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 10px;
 }
